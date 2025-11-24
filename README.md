@@ -38,6 +38,6 @@ Known Limitations:
 - File paths must be correct relative to the script location.
 - Limited error handling in some edge cases.
 
-Author:
+Author:-
 Avdit Rajpoot
 25BAI11425
