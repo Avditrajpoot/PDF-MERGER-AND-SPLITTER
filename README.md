@@ -16,10 +16,9 @@ Technologies Used:
 - PyPDF2 library for PDF manipulation
 
 Installation:
-1. Install Python 3.x from https://python.org
-2. Install the PyPDF2 library using pip:
+1. Install the PyPDF2 library using pip:
    pip install PyPDF2
-3. Place the python script (pdf_tool.py) and your PDF files in the same directory.
+2. Place the python script (pdf_tool.py) and your PDF files in the same directory.
 
 Usage Instructions:
 1. Run the script from a command prompt or terminal:
